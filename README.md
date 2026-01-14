@@ -21,7 +21,7 @@ I enjoy understanding how websites work, building modern web applications, and l
 
 
   ## 📫 Let's Connect
-- GitHub: sahil_codex
+- GitHub: sahil-codex
 <!--
 **sahil-codex/sahil-codex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
