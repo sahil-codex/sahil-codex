@@ -21,7 +21,7 @@ I'm a passionate learner focused on **Web Development** with a strong interest i
 
 
   ## 📫 Let's Connect
-- GitHub: sahil-codex
+- GitHub: sahil-codex{https://github-readme-stats.vercel.app/api?username=sahil-codex&show_icons=true&theme=tokyonight)
 <!--
 **sahil-codex/sahil-codex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
