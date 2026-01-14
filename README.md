@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-I'm a passionate learner exploring the world of **Web Development** and the **Cyber World**.  
-I enjoy understanding how websites work, building modern web applications, and learning about security and technologies behind the web.
+I'm a passionate learner focused on **Web Development** with a strong interest in the **Cyber World** and web security.
 
 ## 🌱 Currently Learning
--Nextjs
--PostrgreSQL
--DSA
+- Next.js  
+- PostgreSQL  
+- Data Structures & Algorithms (DSA)
+
 
 ## 💡 Interests
 - Frontend & Backend Web Development  
