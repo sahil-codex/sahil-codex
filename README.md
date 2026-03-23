@@ -10,7 +10,7 @@ I'm a passionate learner focused on **Web Development** with a strong interest i
 
 ## 💡 Interests
 - Frontend & Backend Web Development  
-- Cybersecurity & Ethical Hacking  
+- Cybersecurity  
 - Web Performance & Security
 
 
