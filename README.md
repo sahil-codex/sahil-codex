@@ -3,8 +3,8 @@
 I'm a passionate learner focused on **Web Development** with a strong interest in the **Cyber World** and web security.
 
 ## 🌱 Currently Learning
-- Next.js  
-- PostgreSQL  
+- Drizzle (ORM)  
+- Nodejs  
 - Data Structures & Algorithms (DSA)
 
 
