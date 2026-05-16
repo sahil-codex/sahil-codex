@@ -3,7 +3,7 @@
 I'm a passionate learner focused on **Web Development** with a strong interest in the **Cyber World** and web security.
 
 ## 🌱 Currently Learning
-- Drizzle (ORM)  
+- Authentication 
 - Nodejs  
 - Data Structures & Algorithms (DSA)
 
